@@ -19,7 +19,7 @@ from telegram.ext import (
 # =======================
 # تنظیمات
 # =======================
-BOT_TOKEN = os.environ.get("8341913444:AAG8jd4dcHvWQa1b2UIkXgkENjPPXqfNM1w")
+BOT_TOKEN = BOT_TOKEN = os.environ.get("BOT_TOKEN")
 ADMIN_ID = 1016313273  # آیدی عددی خودت از @userinfobot
 DB_PATH = "db.json"
 
